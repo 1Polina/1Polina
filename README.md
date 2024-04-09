@@ -25,7 +25,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 </div>
 <p> </p>
-At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems". 
+
+<div align="center">
+    <p>At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems".</p>
+</div> 
 
 My skills include working with virtual machines and familiarity with various distributions such as:
 * Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" />
