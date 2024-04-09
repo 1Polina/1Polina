@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Polina)  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer%20;Designer%20;Security Guard%20;Engineer%20&font=Fira%20Code&center=true&width=440&height=30&color=f75c7e&vCenter=true&pause=10&size=22" /></a>
 ===============================================================================================================================
 
+<div align="center">
+  <img height="80" width="500" src="https://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=truehttps://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=true"  />
+</div>
 --------------------------
 <div align="center">
     <p>cvinka6cvinka@yandex.ru/pollivi1906@gmail.com</p>
