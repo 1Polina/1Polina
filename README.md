@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 --------------------------
 <div align="center">
-    <p>cvinka6cvinka@yandex.ru</p>
+    <p>cvinka6cvinka@yandex.ru/pollivi1906@gmail.com</p>
     <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="35" />
   </a>
   <a href="https://t.me/I0plv07" target="_blank">
