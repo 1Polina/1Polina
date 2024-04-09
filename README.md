@@ -8,7 +8,8 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cvinka6cvinka@yandex.ru](mailto:cvinka6cvinka@yandex.ru)
 
-
+###                     
+###
 <div align="center">
   <img height="150" width="300" src="https://github.com/1Polina/image/blob/main/hacker-reality-colored-keyboard.gif?raw=true"  />
 </div>
