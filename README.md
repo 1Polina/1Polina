@@ -11,7 +11,7 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 
 
 <div align="center">
-  <img height="300" width="600" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8"  />
+  <img height="300" width="600" src="https://jmp.sh/s/JOs65ZXrHeqowf4YSTZA"  />
 </div>
 
 
