@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 <div align="center">
-  <img height="80" width="1000" src="https://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=truehttps://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=true"  />
+  <img height="60" width="1000" src="https://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=truehttps://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=true"  />
 </div>
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
     <p>cvinka6cvinka@yandex.ru/pollivi1906@gmail.com</p>
     <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="38" />
