@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true" height="25" />
 
 Кроме того, у меня есть представление о веб-разработке, я изучала:
-* HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="35" />
+* HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="45" />
 * CSS; <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" />
 
 Также имею опыт работы в области трёхмерной компьютерной графики, с такими программами, как: 
