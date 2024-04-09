@@ -11,7 +11,7 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 
 
 <div align="center">
-  <img height="300" width="600" src="https://www.dukascopy.com/plugins/market_news/attach.php?id=101447"  />
+  <img height="300" width="600" src="https://i.gifer.com/7MMG.gif"  />
 </div>
 
 
