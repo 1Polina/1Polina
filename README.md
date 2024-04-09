@@ -11,7 +11,8 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 
 
 <div align="center">
-  <img height="300" width="600" src="https://jmp.sh/s/JOs65ZXrHeqowf4YSTZA"  />
+  <img height="300" width="600" src="![image](https://github.com/1Polina/1Polina/assets/139702700/f19a3ac7-d7d2-4b5b-b2b9-1b9c88ce8026)
+"  />
 </div>
 
 
