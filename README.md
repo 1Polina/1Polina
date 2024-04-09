@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 --------------------------
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
     <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="25" alt="yandex logo"  />
   </a>
   <a href="https://t.me/I0plv07" target="_blank">
