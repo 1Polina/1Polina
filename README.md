@@ -18,27 +18,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p> </p>
 
-На данный момент я обучаюсь в университете "РТУ МИРЭА" по направлению "Информационная безопасность" и специальности "Информационная безопасность телекоммуникационных систем". 
+At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems". 
 
-Мои навыки включают работу с виртуальными машинами и знакомство с различными дистрибутивами, такими как:
+My skills include working with virtual machines and familiarity with various distributions such as:
 * Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" />
-* OpenSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" />
-* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true" height="25" />
+* openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" />
+* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" />
 
-Я владею языками программирования:
-* C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true" height="35" />
-* C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true" height="25" />
-* Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true" height="25" />
+I speak programming languages:
+* C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" />
+* C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" />
+* Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" />
 
-Кроме того, у меня есть представление о веб-разработке, я изучала:
+In addition, I have an idea about web development, I studied:
 * HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" />
 * CSS; <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" />
 
-Также имею опыт работы в области трёхмерной компьютерной графики, с такими программами, как: 
-* Компас 3D; <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true" height="25" />
+I also have experience in the field of three-dimensional computer graphics, with programs such as: 
+* Compass 3D; <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" />
 * Blender 3D; <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" />
 
-Мои проекты я опубликовала в репозиториях. Я использую репозитории в качестве структурированных папок для более удобной организации содержимого.
+I have published my projects in repositories. I use repositories as structured folders to organize my content more conveniently.
 
 ###                       
 ###                                  
