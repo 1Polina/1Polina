@@ -16,9 +16,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 На данный момент я обучаюсь в университете "РТУ МИРЭА" по направлению "Информационная безопасность" и специальности "Информационная безопасность телекоммуникационных систем". 
 
 Мои навыки включают работу с виртуальными машинами и знакомство с различными дистрибутивами, такими как:
-* Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="38" />
-* OpenSUSE; <img src="https://github.com/1Polina/image/blob/main/kisspng-opensuse-suse-linux-distributions-suse-linux-enter-5aed7df5c73912.450831361525513717816.jpg?raw=true" height="38" />
-* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true" height="38" />
+* Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" />
+* OpenSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" />
+* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true" height="25" />
 
 Я владею языками программирования:
 * C;
