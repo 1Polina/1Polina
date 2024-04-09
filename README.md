@@ -31,10 +31,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div> 
 
 My skills include working with virtual machines and familiarity with various distributions such as:
-* Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" />
-* openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" />
-* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" />
+<div style="overflow: auto;">
+    <p style="float: left;">Astra Linux;</p>
+    <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" style="float: right; margin-left: 10px;" />
 
+    <p style="float: left;">openSUSE;</p>
+    <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" style="float: right; margin-left: 10px;" />
+
+    <p style="float: left;">Ubuntu;</p>
+    <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true" height="25" style="float: right; margin-left: 10px;" />
+
+    <p style="float: left;">Ваш текст;</p>
+    <img src="URL вашего изображения" height="25" style="float: right; margin-left: 10px;" />
+</div>
 I speak programming languages:
 * C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" />
 * C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" />
