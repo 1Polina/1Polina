@@ -21,13 +21,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true" height="25" />
 
 Я владею языками программирования:
-* C;
-* C++;
-* Python;
+* C; <img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true" height="25" />
+* C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true" height="25" />
+* Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true" height="25" />
 
 Кроме того, у меня есть представление о веб-разработке, я изучала:
-* HTML;
-* CSS;
+* HTML; <img src="" height="25" />
+* CSS; <img src="" height="25" />
 
 Также имею опыт работы в области трёхмерной компьютерной графики, с такими программами, как: 
 * Компас 3D;
