@@ -9,6 +9,9 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 * ✉️  You can contact me at [cvinka6cvinka@yandex.ru](mailto:cvinka6cvinka@yandex.ru)
 ### Skills
 
+
+<div class="tenor-gif-embed" data-postid="17405107" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107">Hacker Reality Colored Keyboard GIF</a>from <a href="https://tenor.com/search/hacker+reality-gifs">Hacker Reality GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div align="center">
   <img height="300" width="600" src="https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif"  />
 </div>
