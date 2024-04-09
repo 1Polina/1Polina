@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------
 <div align="center">
     <p>cvinka6cvinka@yandex.ru/pollivi1906@gmail.com</p>
-    <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="40" />
+    <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="38" />
     <img src="https://github.com/1Polina/image/blob/main/d04efe7341f7f30d7094cd39a5396c5c.png?raw=true" height="35" />
   </a>
     <p> </p>
