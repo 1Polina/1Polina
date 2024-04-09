@@ -31,10 +31,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Также имею опыт работы в области трёхмерной компьютерной графики, с такими программами, как: 
 * Компас 3D; <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true" height="25" />
-* Blender 3D; <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true
-" height="25" />
+* Blender 3D; <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" />
 
-Мои проекты я опубликовала в репозиториях. Я использую репозитории в качестве структурированных папок для более удобного организации содержимого и легкого доступа к нему.
+Мои проекты я опубликовала в репозиториях. Я использую репозитории в качестве структурированных папок для более удобной организации содержимого.
 
 ###                       
 ###                                  
