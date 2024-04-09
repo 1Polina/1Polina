@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <p> </p>
----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems". 
 
 My skills include working with virtual machines and familiarity with various distributions such as:
