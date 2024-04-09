@@ -5,7 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
     <p>cvinka6cvinka@yandex.ru/pollivi1906@gmail.com</p>
     <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="35" />
+    <img src="https://github.com/1Polina/image/blob/main/d04efe7341f7f30d7094cd39a5396c5c.png?raw=true" height="35" />
   </a>
+    <p> </p>
   <a href="https://t.me/I0plv07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
