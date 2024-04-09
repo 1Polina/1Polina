@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 <div align="center">
-  <img height="60" width="1000" src="https://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=truehttps://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=true"  />
+  <img height="70" width="1000" src="https://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=truehttps://github.com/1Polina/image/blob/main/914d503a5d130f6d951cc2501bcace8635cf876cb92b29461ba67243d096e2e0.gif?raw=true"  />
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
@@ -47,6 +47,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img height="150" width="300" src="https://github.com/1Polina/image/blob/main/hacker-reality-colored-keyboard.gif?raw=true"  />
 </div>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
