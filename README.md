@@ -7,14 +7,13 @@ I graduated from the 1st year of the technical university "RTU MIREA" in the spe
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cvinka6cvinka@yandex.ru](mailto:cvinka6cvinka@yandex.ru)
-### Skills
 
 
 <div align="center">
   <img height="100" width="300" src="https://github.com/1Polina/image/blob/main/hacker-reality-colored-keyboard.gif?raw=true"  />
 </div>
 
-
+### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
