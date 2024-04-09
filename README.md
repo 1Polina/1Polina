@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 --------------------------
 <div align="center">
-    <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="25" alt="yandex logo"  />
+    <img src="https://github.com/1Polina/image/blob/main/scale_1200.png?raw=true" height="25" 
+    alt="cvinka6cvinka@yandex.ru"  />
   </a>
   <a href="https://t.me/I0plv07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
