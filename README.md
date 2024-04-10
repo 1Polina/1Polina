@@ -34,9 +34,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
    <tr>
     My skills include working with virtual machines and familiarity with various distributions such as:
-<td>Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" /></td>
-<td>openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" /></td>
-<td>Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" /></td>
+<td>Astra Linux <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" /></td>
+<td>openSUSE <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" /></td>
+<td>Ubuntu <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" /></td>
   </tr>
 </table>
 
@@ -53,8 +53,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
   <tr>
     In addition, I have an idea about web development, I studied:
-<td>HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" /></td>
-<td>CSS; <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" /></td>
+<td>HTML <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" /></td>
+<td>CSS <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" /></td>
 </tr>
 </table>
 
@@ -62,8 +62,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
   <tr>
     I also have experience in the field of three-dimensional computer graphics, with programs such as: 
-<td>Compass 3D; <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
-<td>Blender 3D; <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
+<td>Compass 3D <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
+<td>Blender 3D <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
 </tr>
 </table>
 
