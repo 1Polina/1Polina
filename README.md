@@ -52,7 +52,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
   <tr>
     In addition, I have an idea about web development, I studied:
-<td>HTML <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" /></td>
+<td>HTML <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="30" /></td>
 <td>CSS <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" /></td>
 </tr>
 </table>
