@@ -58,9 +58,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </tr>
 </table>
 
-<pre>
 <table>
   <tr>
+    <pre>
                                          I also have experience in the field of three-dimensional computer graphics, with programs such as: 
                                      <td>Compass 3D <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
                                      <td>Blender 3D <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
