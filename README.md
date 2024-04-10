@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </table>
 
 
-<table>
+<table header = "I speak programming languages:">
   <tr>
     I speak programming languages:
 <td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
