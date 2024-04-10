@@ -43,10 +43,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <table>
   <tr>
-    <pre>                                 I speak programming languages:
-<pre>   <td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td> </pre>
-<pre>                                 <td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td> </pre>
-<pre>                                 <td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td> </pre>
+    I speak programming languages:
+<td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
+<td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td> 
+<td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
   </tr>
 </table>
 
@@ -60,13 +60,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <table>
   <tr>
-    <pre>
-                                         I also have experience in the field of three-dimensional computer graphics, with programs such as: 
-                                     <td>Compass 3D <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
-                                     <td>Blender 3D <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
+    I also have experience in the field of three-dimensional computer graphics, with programs such as: 
+<td>Compass 3D <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
+<td>Blender 3D <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
 </tr>
 </table>
-</pre>
 I have published my projects in repositories. I use repositories as structured folders to organize my content more conveniently.
 
 ###                       
