@@ -32,12 +32,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <table>
    <tr>
-   <td>My skills include working with virtual machines and familiarity with various distributions such as:</td>
-   </tr>
-</table>
-
-<table>
-   <tr>
+     My skills include working with virtual machines and familiarity with various distributions such as:
 <td>Astra Linux <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" /></td>
 <td>openSUSE <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" /></td>
 <td>Ubuntu <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" /></td>
