@@ -30,15 +30,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <p>At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems".</p>
 </div> 
 
-My skills include working with virtual machines and familiarity with various distributions such as:
-* Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" />
-* openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" />
-* Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" />
+<table>
+  <tr>
+    My skills include working with virtual machines and familiarity with various distributions such as:
+<td>Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" /></td> 
+<td>openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" /></td>
+<td><img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" /></td> Ubuntu;
+  </tr>
 
-I speak programming languages:
-* C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" />
-* C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" />
-* Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" />
+  <tr>
+    I speak programming languages:
+<td>C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
+<td>C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
+<td>Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
+  </tr>
+</table>
+
 
 In addition, I have an idea about web development, I studied:
 * HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" />
