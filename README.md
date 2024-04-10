@@ -31,11 +31,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div> 
 
 <table>
-  <td> 
     <div align="center">
     <p>My skills include working with virtual machines and familiarity with various distributions such as:</p>
      </div> 
-  </td> 
   <tr>
     I speak programming languages:
 <td>C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
