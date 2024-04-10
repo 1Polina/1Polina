@@ -44,7 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
   <tr>
     <pre>                                 I speak programming languages:
-<pre>                                 <td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td> </pre>
+<pre>   <td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td> </pre>
 <pre>                                 <td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td> </pre>
 <pre>                                 <td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td> </pre>
   </tr>
