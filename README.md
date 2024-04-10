@@ -36,12 +36,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <p>My skills include working with virtual machines and familiarity with various distributions such as:</p>
      </div> 
   </td> 
-  
   <tr>
-<td>Astra Linux; <img src="https://github.com/1Polina/image/blob/main/Astar-Linuks.jpg?raw=true" height="25" /></td> 
-<td>openSUSE; <img src="https://github.com/1Polina/image/blob/main/openSUSE-logo.png?raw=true" height="25" /></td>
-<td>Ubuntu; <img src="https://github.com/1Polina/image/blob/main/ubuntu-logo-png-ubuntu-free-logo-icons-1200x630.png?raw=true " height="25" /></td>
+    I speak programming languages:
+<td>C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
+<td>C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
+<td>Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
   </tr>
+</table>
+
+  
 
   
 
