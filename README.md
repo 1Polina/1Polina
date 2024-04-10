@@ -36,9 +36,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
      </div> 
   <tr>
     I speak programming languages:
-<td>C;<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
-<td>C++; <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
-<td>Python; <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
+<td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
+<td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
+<td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
   </tr>
 </table>
 
