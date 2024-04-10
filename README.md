@@ -30,14 +30,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <p>At the moment, I am studying at the University of "RTU MIREA" in the field of "Information security" and the specialty "Information security of telecommunication systems".</p>
 </div> 
 
-<table>
-  <tr>
-    I speak programming languages:
-<td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
-<td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
-<td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
-  </tr>
-</table>
 
 <table>
    <tr>
@@ -48,13 +40,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </tr>
 </table>
 
-<td></td>
-<td></td>
-<td></td>
 
-<td></td>
-<td></td>
-<td></td>
+<table>
+  <tr>
+    I speak programming languages:
+<td>C<img src="https://github.com/1Polina/image/blob/main/c.jpg?raw=true " height="35" /></td>
+<td>C++ <img src="https://github.com/1Polina/image/blob/main/scale_12.jpg?raw=true " height="25" /></td>
+<td>Python <img src="https://github.com/1Polina/image/blob/main/Python_logo_icon.png?raw=true " height="25" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    In addition, I have an idea about web development, I studied:
+<td>HTML; <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="40" /></td>
+<td>CSS; <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" /></td>
+</tr>
+</table>
+
+
+<table>
+  <tr>
+    I also have experience in the field of three-dimensional computer graphics, with programs such as: 
+<td>Compass 3D; <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
+<td>Blender 3D; <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
+</tr>
+</table>
 
 
 In addition, I have an idea about web development, I studied:
