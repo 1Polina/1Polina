@@ -49,21 +49,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </tr>
 </table>
 
-<table>
-  <tr>
-    In addition, I have an idea about web development, I studied:
-<td>HTML <img src="https://github.com/1Polina/image/blob/main/htm.jpg?raw=true" height="30" /></td>
-<td>CSS <img src="https://github.com/1Polina/image/blob/main/%D1%81%D1%8B%D1%8B.png?raw=true" height="25" /></td>
-</tr>
-</table>
-
-<table>
-  <tr>
-    I also have experience in the field of three-dimensional computer graphics, with programs such as: 
-<td>Compass 3D <img src="https://github.com/1Polina/image/blob/main/compas.jpg?raw=true " height="25" /></td>
-<td>Blender 3D <img src="https://github.com/1Polina/image/blob/main/blender.jpg?raw=true" height="25" /></td>
-</tr>
-</table>
 I have published my projects in repositories. I use repositories as structured folders to organize my content more conveniently.
 
 ###                       
